@@ -1,0 +1,18 @@
+node_modules/
+coverage/
+.cache/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Reproducible tools and local research working data
+/.local-setup/
+/.vscode/
+/reference/swf/mirrors/
+/analysis/logs/
+/analysis/dumps/
+__pycache__/
+*.pyc
